@@ -24,20 +24,30 @@ limitations under the License.
 
 > Base utilities for unsigned 32-bit integers.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/number-uint32-base
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base@esm/index.mjs';
-```
-
-You can also import the following named exports from the package:
-
-```javascript
-import { fromBinaryStringUint32, rotl32, rotr32, toBinaryStringUint32, uint32ToInt32 } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base@esm/index.mjs';
+var ns = require( '@stdlib/number-uint32-base' );
 ```
 
 #### ns
@@ -75,20 +85,11 @@ var o = ns;
 
 <!-- eslint no-undef: "error" -->
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<script type="module">
-
-import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base@esm/index.mjs';
+```javascript
+var objectKeys = require( '@stdlib/utils-keys' );
+var ns = require( '@stdlib/number-uint32-base' );
 
 console.log( objectKeys( ns ) );
-
-</script>
-</body>
-</html>
 ```
 
 </section>
@@ -112,7 +113,7 @@ console.log( objectKeys( ns ) );
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -174,15 +175,15 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/number/uint32/base/from-binary-string]: https://github.com/stdlib-js/number-uint32-base-from-binary-string/tree/esm
+[@stdlib/number/uint32/base/from-binary-string]: https://github.com/stdlib-js/number-uint32-base-from-binary-string
 
-[@stdlib/number/uint32/base/rotl]: https://github.com/stdlib-js/number-uint32-base-rotl/tree/esm
+[@stdlib/number/uint32/base/rotl]: https://github.com/stdlib-js/number-uint32-base-rotl
 
-[@stdlib/number/uint32/base/rotr]: https://github.com/stdlib-js/number-uint32-base-rotr/tree/esm
+[@stdlib/number/uint32/base/rotr]: https://github.com/stdlib-js/number-uint32-base-rotr
 
-[@stdlib/number/uint32/base/to-binary-string]: https://github.com/stdlib-js/number-uint32-base-to-binary-string/tree/esm
+[@stdlib/number/uint32/base/to-binary-string]: https://github.com/stdlib-js/number-uint32-base-to-binary-string
 
-[@stdlib/number/uint32/base/to-int32]: https://github.com/stdlib-js/number-uint32-base-to-int32/tree/esm
+[@stdlib/number/uint32/base/to-int32]: https://github.com/stdlib-js/number-uint32-base-to-int32
 
 <!-- </toc-links> -->
 
