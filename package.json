@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-uint32-base-from-binary-string": "^0.2.1",
+    "@stdlib/number-uint32-base-from-binary-string": "^0.2.2",
     "@stdlib/number-uint32-base-rotl": "^0.2.2",
     "@stdlib/number-uint32-base-rotr": "^0.2.2",
     "@stdlib/number-uint32-base-to-binary-string": "^0.2.2",
