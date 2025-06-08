@@ -4,12 +4,18 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-08)
 
 <section class="features">
 
 ### Features
 
+-   [`c763537`](https://github.com/stdlib-js/stdlib/commit/c76353782ad54e7ce0eb4cd9a33038414106a34d) - add `sub` to namespace
+-   [`d946b86`](https://github.com/stdlib-js/stdlib/commit/d946b86803638384d1b6b5aa0999163a5b461455) - add `number/uint32/base/sub`
+-   [`3065981`](https://github.com/stdlib-js/stdlib/commit/30659819eef6e49a82422491e77e758e8249b6a8) - add `muldw` to namespace
+-   [`1e80a21`](https://github.com/stdlib-js/stdlib/commit/1e80a2156210812c8c803ccc8d7311f0894a356d) - add `mul` to namespace
+-   [`9b26fe7`](https://github.com/stdlib-js/stdlib/commit/9b26fe7da6f728ccb30d823d4945bd0c4d30198e) - add `add` to namespace
+-   [`8c4b38b`](https://github.com/stdlib-js/stdlib/commit/8c4b38bea72599bed101a3a38a4f4ed05c003570) - add `number/uint32/base/add`
 -   [`5014579`](https://github.com/stdlib-js/stdlib/commit/50145790965ef11b4a7852a79944776f6d1e9c6f) - add `number/uint32/base/muldw`
 -   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - add `number/uint32/base/mul`
 
@@ -23,6 +29,12 @@
 
 <details>
 
+-   [`c763537`](https://github.com/stdlib-js/stdlib/commit/c76353782ad54e7ce0eb4cd9a33038414106a34d) - **feat:** add `sub` to namespace _(by Athan Reines)_
+-   [`d946b86`](https://github.com/stdlib-js/stdlib/commit/d946b86803638384d1b6b5aa0999163a5b461455) - **feat:** add `number/uint32/base/sub` _(by Athan Reines)_
+-   [`3065981`](https://github.com/stdlib-js/stdlib/commit/30659819eef6e49a82422491e77e758e8249b6a8) - **feat:** add `muldw` to namespace _(by Athan Reines)_
+-   [`1e80a21`](https://github.com/stdlib-js/stdlib/commit/1e80a2156210812c8c803ccc8d7311f0894a356d) - **feat:** add `mul` to namespace _(by Athan Reines)_
+-   [`9b26fe7`](https://github.com/stdlib-js/stdlib/commit/9b26fe7da6f728ccb30d823d4945bd0c4d30198e) - **feat:** add `add` to namespace _(by Athan Reines)_
+-   [`8c4b38b`](https://github.com/stdlib-js/stdlib/commit/8c4b38bea72599bed101a3a38a4f4ed05c003570) - **feat:** add `number/uint32/base/add` _(by Athan Reines)_
 -   [`5014579`](https://github.com/stdlib-js/stdlib/commit/50145790965ef11b4a7852a79944776f6d1e9c6f) - **feat:** add `number/uint32/base/muldw` _(by Gururaj Gurram)_
 -   [`2540748`](https://github.com/stdlib-js/stdlib/commit/2540748e5850b4f7e8268904faeec1f2e9cb7bfd) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - **feat:** add `number/uint32/base/mul` _(by Gururaj Gurram)_
@@ -37,8 +49,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
