@@ -61,7 +61,6 @@
     "@stdlib/number-float64-base-to-uint32": "^0.2.2",
     "@stdlib/number-int32-base-to-uint32": "^0.2.2",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
-    "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-minstd": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/string-format": "^0.2.2",

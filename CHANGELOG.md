@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-06-09)
 
 <section class="features">
 
 ### Features
 
+-   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - add C API and clean-up
 -   [`c763537`](https://github.com/stdlib-js/stdlib/commit/c76353782ad54e7ce0eb4cd9a33038414106a34d) - add `sub` to namespace
 -   [`d946b86`](https://github.com/stdlib-js/stdlib/commit/d946b86803638384d1b6b5aa0999163a5b461455) - add `number/uint32/base/sub`
 -   [`3065981`](https://github.com/stdlib-js/stdlib/commit/30659819eef6e49a82422491e77e758e8249b6a8) - add `muldw` to namespace
@@ -29,6 +30,11 @@
 
 <details>
 
+-   [`c584077`](https://github.com/stdlib-js/stdlib/commit/c5840770ca22e8717a880d1f1ced8496f7f5a62e) - **docs:** update namespace table of contents [(#7283)](https://github.com/stdlib-js/stdlib/pull/7283) _(by stdlib-bot)_
+-   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
+-   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
+-   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - **feat:** add C API and clean-up _(by Athan Reines)_
+-   [`5572fe5`](https://github.com/stdlib-js/stdlib/commit/5572fe564738f6def14cb6e1d8c0c39358f805a5) - **chore:** add notes and clean-up _(by Athan Reines)_
 -   [`c763537`](https://github.com/stdlib-js/stdlib/commit/c76353782ad54e7ce0eb4cd9a33038414106a34d) - **feat:** add `sub` to namespace _(by Athan Reines)_
 -   [`d946b86`](https://github.com/stdlib-js/stdlib/commit/d946b86803638384d1b6b5aa0999163a5b461455) - **feat:** add `number/uint32/base/sub` _(by Athan Reines)_
 -   [`3065981`](https://github.com/stdlib-js/stdlib/commit/30659819eef6e49a82422491e77e758e8249b6a8) - **feat:** add `muldw` to namespace _(by Athan Reines)_
