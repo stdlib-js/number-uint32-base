@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-07-14)
 
 <section class="features">
 
@@ -30,7 +30,9 @@
 
 <details>
 
+-   [`c0af677`](https://github.com/stdlib-js/stdlib/commit/c0af6777b804074d251bf0699b72ffb6af803ff6) - **docs:** update related packages sections [(#7352)](https://github.com/stdlib-js/stdlib/pull/7352) _(by stdlib-bot)_
 -   [`c584077`](https://github.com/stdlib-js/stdlib/commit/c5840770ca22e8717a880d1f1ced8496f7f5a62e) - **docs:** update namespace table of contents [(#7283)](https://github.com/stdlib-js/stdlib/pull/7283) _(by stdlib-bot)_
+-   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
 -   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
 -   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
 -   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - **feat:** add C API and clean-up _(by Athan Reines)_
