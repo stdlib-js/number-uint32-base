@@ -38,6 +38,7 @@
   "dependencies": {
     "@stdlib/number-uint32-base-add": "github:stdlib-js/number-uint32-base-add#main",
     "@stdlib/number-uint32-base-from-binary-string": "^0.2.2",
+    "@stdlib/number-uint32-base-identity": "github:stdlib-js/number-uint32-base-identity#main",
     "@stdlib/number-uint32-base-mul": "github:stdlib-js/number-uint32-base-mul#main",
     "@stdlib/number-uint32-base-muldw": "github:stdlib-js/number-uint32-base-muldw#main",
     "@stdlib/number-uint32-base-rotl": "^0.2.2",
