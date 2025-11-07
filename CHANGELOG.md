@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-11-07)
 
 <section class="features">
 
 ### Features
 
+-   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - update `number/uint32/base` TypeScript declarations
 -   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - add `identity` to `number/uint32/base` namespace
 -   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844)
 -   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - add C API and clean-up
@@ -26,12 +27,27 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8170](https://github.com/stdlib-js/stdlib/issues/8170)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
+-   [`f920adc`](https://github.com/stdlib-js/stdlib/commit/f920adcf8021ad52af5d9725573a67717e7a67a1) - **chore:** fix C lint errors [(#8180)](https://github.com/stdlib-js/stdlib/pull/8180) _(by Navyansh Kesarwani, Athan Reines)_
+-   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - **feat:** update `number/uint32/base` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - **feat:** add `identity` to `number/uint32/base` namespace _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -69,11 +85,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
 -   Gururaj Gurram
+-   Navyansh Kesarwani
 -   Philipp Burckhardt
 
 </section>
