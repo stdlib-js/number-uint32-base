@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-uint32-base",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Base utilities for unsigned 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
@@ -36,14 +36,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-uint32-base-add": "github:stdlib-js/number-uint32-base-add#main",
+    "@stdlib/number-uint32-base-add": "^0.1.0",
     "@stdlib/number-uint32-base-from-binary-string": "^0.2.2",
-    "@stdlib/number-uint32-base-identity": "github:stdlib-js/number-uint32-base-identity#main",
-    "@stdlib/number-uint32-base-mul": "github:stdlib-js/number-uint32-base-mul#main",
-    "@stdlib/number-uint32-base-muldw": "github:stdlib-js/number-uint32-base-muldw#main",
+    "@stdlib/number-uint32-base-identity": "^0.1.0",
+    "@stdlib/number-uint32-base-mul": "^0.1.0",
+    "@stdlib/number-uint32-base-muldw": "^0.1.0",
     "@stdlib/number-uint32-base-rotl": "^0.2.2",
     "@stdlib/number-uint32-base-rotr": "^0.2.2",
-    "@stdlib/number-uint32-base-sub": "github:stdlib-js/number-uint32-base-sub#main",
+    "@stdlib/number-uint32-base-sub": "^0.1.0",
     "@stdlib/number-uint32-base-to-binary-string": "^0.2.2",
     "@stdlib/number-uint32-base-to-int32": "^0.2.2",
     "@stdlib/utils-define-read-only-property": "^0.2.2"

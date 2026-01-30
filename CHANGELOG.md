@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-11-07)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -45,6 +45,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`82f9d54`](https://github.com/stdlib-js/stdlib/commit/82f9d5484c3beda739ac298abd28983b6cc9750d) - **bench:** refactor to use string interpolation in `number/uint32/base/mul` [(#8944)](https://github.com/stdlib-js/stdlib/pull/8944) _(by Krishna Awasthi)_
+-   [`7db5b32`](https://github.com/stdlib-js/stdlib/commit/7db5b32afe976e2d3c216a45e0927c88e668d340) - **chore:** add `alias_prefix` to parent namespaces [(#8540)](https://github.com/stdlib-js/stdlib/pull/8540) _(by Gunj Joshi)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`f920adc`](https://github.com/stdlib-js/stdlib/commit/f920adcf8021ad52af5d9725573a67717e7a67a1) - **chore:** fix C lint errors [(#8180)](https://github.com/stdlib-js/stdlib/pull/8180) _(by Navyansh Kesarwani, Athan Reines)_
 -   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - **feat:** update `number/uint32/base` TypeScript declarations _(by Philipp Burckhardt)_
@@ -85,11 +87,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
 -   Gururaj Gurram
+-   Krishna Awasthi
 -   Navyansh Kesarwani
 -   Philipp Burckhardt
 
